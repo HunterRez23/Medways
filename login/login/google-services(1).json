@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843916542531",
+    "project_id": "registo1",
+    "storage_bucket": "registo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843916542531:android:594017859236c3fd06caf6",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHJcxDFKDxyAR3oEtMrYWO_njtcxlQtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
